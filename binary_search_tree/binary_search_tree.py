@@ -1,7 +1,7 @@
+# import sys
+# sys.path.append('../queue_and_stack')
 from dll_stack import Stack
 from dll_queue import Queue
-import sys
-sys.path.append('../queue_and_stack')
 
 
 class BinarySearchTree:
@@ -59,8 +59,8 @@ class BinarySearchTree:
 
     # Call the function `cb` on the value of each node
     # You may use a recursive or iterative approach
-    def for_each(self, cb):
-        pass
+    # def for_each(self, cb):
+    #     pass
 
     # DAY 2 Project -----------------------
 
